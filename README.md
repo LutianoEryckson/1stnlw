@@ -32,7 +32,9 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 💻 Projeto
 
-O Habits é aplicativo auxiliador para rastrear hábitos rotineiros. 
+O Habits é aplicativo auxiliador para rastrear hábitos rotineiros.
+
+- [Visite o projeto online] (https://LutianoEryckson.github.io/1stnlw)
 
 ## 🔖 Layout
 
